@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Sasanqua",
+  "base_artist": "Afterglow",
+  "createdAt": "2025-12-10T06:41:59.076645Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sasanqua - short ver.",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/01_Sasanqua_-_short_ver._Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sasanqua",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/02_Sasanqua_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sasanqua",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_Sasanqua_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サザンカ - Sasanqua",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/04_サザンカ_-_Sasanqua_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sasanqua",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/05_Sasanqua_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sasanqua",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/06_Sasanqua_Afterglow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sasanqua",
+      "artist": "Afterglow",
+      "has_synced": false,
+      "path": "select/pl_01_Sasanqua_Afterglow.txt"
+    }
+  ]
+}
